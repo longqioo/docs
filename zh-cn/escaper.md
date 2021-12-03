@@ -6,13 +6,13 @@ title: 'Escaper'
 keywords: 'escaper, escape html, escape js, escape css'
 ---
 
-# Escaper
+#转义器 Escaper
 
 * * *
 
 ![](/assets/images/document-status-stable-success.svg) ![](/assets/images/version-{{ page.version }}.svg)
 
-## Overview
+##预览 Overview
 
 Websites and web applications are vulnerable to [XSS](https://owasp.org/www-community/attacks/xss/) attacks and although PHP provides escaping functionality, in some contexts it is not sufficient/appropriate. [Phalcon\Escaper](api/phalcon_escaper#escaper) provides contextual escaping and is written in [Zephir](https://zephir-lang.com), providing the minimal overhead when escaping different kinds of texts.
 
